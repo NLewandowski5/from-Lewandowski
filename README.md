@@ -6,6 +6,11 @@ I love **Raising Cane's** chicken! Mixing their signature sauce with their chick
 ---
 
 ### My Favorite Choices:
-* 3 Piece Combo w/ Extra Toast and Sweet Tea
-* Box Combo w/ Extra Toast and Sweet Tea
-* Caniac Combo with Sweet Tea
+1. 3 Piece Combo w/ Extra Toast and Sweet Tea
+2. Box Combo w/ Extra Toast and Sweet Tea
+3. Caniac Combo with Sweet Tea
+
+### Other Nearby Attractions
+* Omaha Henry Doorly Zoo
+* Charles Schwab Field
+* CHI Center Omaha
