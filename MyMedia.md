@@ -23,3 +23,32 @@ This is a table displaying a few songs that I recommend. It also lists the reaso
 > The expert at anything was once a beginner. *-Helen Hayes*
 >
 > To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. *-Ralph Waldo Emerson*
+
+---
+
+### Code Snippet Section
+
+This is a code snippet for creating a static file server in Node.js.
+
+```
+const fileSystem = require('fs');
+const http = require('http');
+
+http.createServer((request, response) => {
+	fileSystem.readFile(__dirname + request.url, (error, data) => {
+		if (error) {
+			response.writeHead(404, {
+				'Content-Type': 'text/html'
+			});
+			response.end('404: File not found');
+		} else {
+			response.writeHead(200, {
+				'Content-Type': 'text/html'
+			});
+			response.end(data);
+		}
+	});
+}).listen(8000);
+```
+
+View the code snippet from Pieces here: <https://code.pieces.app/collections/node-js>
