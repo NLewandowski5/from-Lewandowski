@@ -16,3 +16,10 @@ This is a table displaying a few songs that I recommend. It also lists the reaso
 | Clouds | Upbeat and groovy rhythym | Whethan |
 | Refuse To Speak | Very energetic electronic bass | Sub Zero Project |
 | Mice On Venus | Best video game song to ever exist | C418 |
+
+---
+
+### Quote Section
+> The expert at anything was once a beginner. *-Helen Hayes*
+>
+> To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. *-Ralph Waldo Emerson*
