@@ -13,7 +13,7 @@ This is a table displaying a few songs that I recommend. It also lists the reaso
 | Song Title | Reasoning | Artist |
 | --- | --- | --- |
 | Let Go | Ethereal aesthetic | Ark Patrol |
-| Clouds | Upbeat and groovy rhythym | Whethan |
+| Clouds | Upbeat and groovy rythym | Whethan |
 | Refuse To Speak | Very energetic electronic bass | Sub Zero Project |
 | Mice On Venus | Best video game song to ever exist | C418 |
 
